@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Real-time Chat App",
+        "imageSrc": "projects/project.png",
+        "description":
+          "A real-time chat application built with Socket.IO enabling instant messaging with dynamic room support and event-driven architecture.",
+        "skills": ["Socket.IO", "Node.js", "MongoDB", "JavaScript"],
+        "demo": "https://your-chatapp-demo-link.com",
+        "source": "https://github.com/SubhadeepGhosh2001/fullstack-chat-app"
+      },
+      {
+        "title": "Gen AI Persona App",
+        "imageSrc": "projects/project.png",
+        "description":
+          "An AI-driven chatbot using LLMs, prompt engineering, and Gemini for contextual persona interaction.",
+        "skills": ["Generative AI", "LLMs", "Gemini", "Prompt Engineering", "Chain of Thoughts"],
+        "demo": "https://your-genai-demo-link.com",
+        "source": "https://github.com/SubhadeepGhosh2001/Persona-based-Prompting-Gen-Ai"
+      },
+      {
+        "title": "E-commerce Platform",
+        "imageSrc": "projects/project.png",
+        "description":
+          "A modern e-commerce web app featuring product listing, cart management, authentication, and order handling using MERN stack.",
+        "skills": ["React", "Node.js", "MongoDB", "Express", "RazorPay"],
+        "demo": "https://your-ecommerce-demo-link.com",
+        "source": "https://github.com/SubhadeepGhosh2001/your-ecommerce-repo"
+      }
+  ]
